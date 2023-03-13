@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586675819 source:c:\users\lenovo\documents\codeblocks\bank mgmt\bank mgmt\main.cpp
+	<iostream>
+	<fstream>
+
